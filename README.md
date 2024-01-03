@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samrawit Ayalew</h1>
 <h2 align="center">A passionate Software and Machine Learning Engineer</h2>
 
-- 💬 Ask me about **react, python,Java**
+- 💬 Ask me about **react, python, Java, Spring Framework, Spring Boot, Spring Security**
 
 - 📫 How to reach me **hairaer02@gmail.com**
 
