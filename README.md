@@ -1,9 +1,9 @@
 # Hi 👋, I'm Samrawit Ayalew 
 ### Software & Machine Learning Engineer
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=samrawit02&label=Profile%20Views&countColor=%23263171&style=flat-square" alt="Visitor Count" />
-</div>
+</div> -->
 
 ---
 
