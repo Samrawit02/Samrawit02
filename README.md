@@ -108,7 +108,7 @@ Building modern web applications using **React** on the frontend and **Spring Bo
 </a>
 
 <a href="https://medium.com/@hairaer02">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+<img src="https://img.shields.io/badge/Medgitium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </p>
 
